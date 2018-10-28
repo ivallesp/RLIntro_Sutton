@@ -6,3 +6,7 @@ This is also intended to serve as a resource for those people that want to try r
 Any thoughts or comments will be appreciated.
 
 Iván.
+
+## License
+Licensed under MIT license.
+Copyright (c) 2018 Iván Vallés Pérez
